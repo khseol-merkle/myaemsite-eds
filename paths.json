@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/mysemsite-eds/:/",
-    "/content/mysemsite-eds/configuration:/.helix/config.json",
-    "/content/mysemsite-eds/metadata:/metadata.json"
+    "/content/myaemsite-eds/:/",
+    "/content/myaemsite-eds/configuration:/.helix/config.json",
+    "/content/myaemsite-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/mysemsite-eds/"
+    "/content/myaemsite-eds/"
   ]
 }
